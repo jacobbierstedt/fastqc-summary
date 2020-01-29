@@ -3,7 +3,7 @@ Creates a .csv summary of fastqc results by parsing the fastqc_data.txt files ou
 
 ### Installation
 
-clone this repository and type `make` or `make clean`
+clone this repository, `cd` into fastqc-summary and type `make` or `make clean`
 
 ### Usage Information
 `fastqc-summary -f FASTQC_OUT_DIRECTORY/`
